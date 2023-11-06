@@ -12,10 +12,10 @@ int main()
     }
     if(x==v)
     {
-        printf("True");
+        printf("Palindrome");
     }
     else
     {
-        printf("False");
+        printf("Not Palindrome");
     }
 }
